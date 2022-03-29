@@ -1,0 +1,15 @@
+E:\Projects\CopyFile\CopyFile\bin\Debug\net6.0\CopyFile.exe
+E:\Projects\CopyFile\CopyFile\bin\Debug\net6.0\CopyFile.deps.json
+E:\Projects\CopyFile\CopyFile\bin\Debug\net6.0\CopyFile.runtimeconfig.json
+E:\Projects\CopyFile\CopyFile\bin\Debug\net6.0\CopyFile.dll
+E:\Projects\CopyFile\CopyFile\bin\Debug\net6.0\ref\CopyFile.dll
+E:\Projects\CopyFile\CopyFile\bin\Debug\net6.0\CopyFile.pdb
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\CopyFile.csproj.AssemblyReference.cache
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\CopyFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\CopyFile.AssemblyInfoInputs.cache
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\CopyFile.AssemblyInfo.cs
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\CopyFile.csproj.CoreCompileInputs.cache
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\CopyFile.dll
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\ref\CopyFile.dll
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\CopyFile.pdb
+E:\Projects\CopyFile\CopyFile\obj\Debug\net6.0\CopyFile.genruntimeconfig.cache
